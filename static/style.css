@@ -17,28 +17,28 @@
 
 h2{
     text-align: center;
-    padding: 25px 0 5px 0;
-    left: 18px;
+    padding: 20px 0 5px 0;
 }
 
 
 h5{
     text-align: center;
-    padding: 2px 0 0 0;
-    color:red;
+    color: red;
 }
 
 
-.container {
+ .container{
     position: absolute;
-    top: 28%;
-    left: 60%;
+    top:28%;
+    left:60%;
     width: 25%;
-    height: 45%;
-    border-radius: 5%;
-    border-color: black;
-    border-style: ridge;
-}
+    height: 50%;
+    border-radius:5%;
+    border-color:black;
+    border-style:ridge;
+
+    
+} 
 
 
 
@@ -84,7 +84,7 @@ input{
 
 
 .link:hover{
-    color:brown;
+    color:gray;
 }
 
 
@@ -106,6 +106,4 @@ button:hover{
     background:wheat;
     color:black;
 }
- 
 
- 
